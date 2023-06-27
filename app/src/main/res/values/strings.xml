@@ -1,0 +1,37 @@
+<resources>
+
+
+
+    <string name="app_name">TipCalc</string>
+
+    <string name="bill_amount">Amount:</string>
+
+    <string name="calculate">Calculate</string>
+
+    <string name="tip_percent">Tip Percent:</string>
+
+    <string name="tip_rounding">Rounding:</string>
+
+    <string name="ten_percent">10% - Poor Service</string>
+
+    <string name="fifteen_percent">15% - Expected Service</string>
+
+    <string name="twenty_percent">20% - Excellent Service</string>
+
+    <string name="twentyfive_percent">25% - Awesome Service</string>
+
+    <string name="thirty_percent">30% - Server Blew Me!</string>
+
+    <string name="never_round">Never Round</string>
+
+    <string name="round_up">Round Up to Dollar</string>
+
+    <string name="round_down">Round Down to Dollar</string>
+
+    <string name="total_tip">Total Tip:</string>
+
+    <string name="total_bill">Total Bill:</string>
+
+
+
+</resources>
